@@ -1,5 +1,5 @@
 //
-//  HappyMetrics.swift
+//  HappyMetricsView.swift
 //  SwiftChartsCanvas
 //
 //  Created by Akihiko Sato on 2025/04/06.
@@ -10,7 +10,7 @@ import Charts
 
 private let outlineRadius: Double = 70.0
 
-struct HappyMetrics: View {
+struct HappyMetricsView: View {
   
   // Face gradient for the entire face
   private var faceGradient: RadialGradient {
@@ -194,5 +194,5 @@ struct EyeAreaPlot: ChartContent {
 }
 
 #Preview {
-  HappyMetrics()
+  HappyMetricsView()
 }

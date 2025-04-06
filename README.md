@@ -1,17 +1,18 @@
 # Graph Art with Charts API – Beyond Data Visualization
 
-This project is a companion to the try! Swift Tokyo 2025 talk by Akihiko Sato.  
+This project is a companion to the [try! Swift Tokyo 2025](https://www.tryswift.co/events/2025/tokyo/en/) talk by Akihiko Sato.  
 It explores the creative and artistic potential of [Swift Charts](https://developer.apple.com/documentation/charts) beyond traditional data visualization — treating it as a canvas for **graph-based art**.
 
-## 🌟 What is Graph Art?
-
-Graph Art is the use of mathematical equations, parametric functions, and plotting APIs to create expressive visual compositions. This project showcases how Swift Charts — specifically `LinePlot`, `AreaPlot`, and `RectanglePlot` — can be used to design vibrant, dynamic artwork.
+📚 **Slide deck available here** →  
+👉 [Speaker Deck: Graph Art with Charts API – Beyond Data Visualization](https://speakerdeck.com/akkie76/graph-art-with-charts-api-beyond-data-visualization)
 
 ---
 
 ## ✨ Artworks
 
 ### 1. Graph Garden 🌷
+
+<img src="https://github.com/akkie76/SwiftChartsCanvas/blob/main/Screenshoot/GraphGarden.png" alt="Graph Garden" width="400" />
 
 **Chart APIs**: `LinePlot`, `AreaPlot`  
 **Math Concepts**:  
@@ -30,6 +31,8 @@ Graph Garden generates flower shapes using rose curve equations and places them 
 
 ### 2. Happy Metrics 😊
 
+<img src="https://github.com/akkie76/SwiftChartsCanvas/blob/main/Screenshoot/HappyMetrics.png" alt="Happy Metrics" width="400" />
+
 **Chart APIs**: `AreaPlot`, `LinePlot`  
 **Math Concepts**:  
 - Circle Equation for Face Outline  
@@ -43,6 +46,8 @@ A happy face drawn with math! The face is rendered using the circle equation in 
 ---
 
 ### 3. One More Pixel 🖥
+
+<img src="https://github.com/akkie76/SwiftChartsCanvas/blob/main/Screenshoot/OneMorePixel.png" alt="One More Pixel" width="600" />
 
 **Chart APIs**: `RectanglePlot`  
 **Techniques**:  
@@ -75,6 +80,8 @@ The talk, *"Graph Art with Charts API – Beyond Data Visualization"*, demonstra
 - Combine math and visualization
 - Go beyond practical dashboards
 - Treat code as art
+
+📺 [Speaker Deck Presentation](https://speakerdeck.com/akkie76/graph-art-with-charts-api-beyond-data-visualization)
 
 ---
 

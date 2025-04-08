@@ -22,10 +22,7 @@ It explores the creative and artistic potential of [Swift Charts](https://develo
 Graph Garden generates flower shapes using rose curve equations and places them on a stylized sine-arctangent ground. The elements are layered with scaling and shearing transformations to give a natural illustration-like result.
 
 📄 Related files:
-- `PinkFlowerPlot.swift`
-- `PinkLeafPlot.swift`
-- `PinkFlowerStemPlot.swift`
-- `GroundPlot.swift`
+- `FlowerConfig.swift`
 
 ---
 

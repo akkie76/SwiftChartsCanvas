@@ -94,3 +94,9 @@ Software Engineer at DeNA
 
 Swift Charts is not only a data visualization tool — it’s a **creative playground**.  
 What will you create?
+
+## Related Projects
+
+- [pixel-csv-exporter](https://github.com/akkie76/pixel-csv-exporter):  
+  A CLI tool to convert images into pixel data CSV files. Useful for generating pixel art style visuals with Swift Charts.
+

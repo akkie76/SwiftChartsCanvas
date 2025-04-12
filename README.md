@@ -61,7 +61,7 @@ This is pixel art rendered entirely using `RectanglePlot`. Each square correspon
 
 ## 🧪 Dependencies
 
-- iOS 17+ / macOS 14+
+- iOS 18+
 - Swift Charts framework
 - SwiftUI
 
